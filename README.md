@@ -1,4 +1,3 @@
-# Project2 Chatbot Recommendation
 # Starbucks Recommender Chatbot
 
 ## 241-351 ARTIFICIAL INTELLIGENCE FOR SOCIAL MEDIA
