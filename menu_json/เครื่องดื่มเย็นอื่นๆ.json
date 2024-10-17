@@ -1,0 +1,68 @@
+[
+    {
+        "title": "ไนโตร ซิกเนเจอร์ ช็อกโกแลต",
+        "detail": "นมสดผสานไนโตรเจนและซอสช็อกโกแลต",
+        "prices": {
+            "Tall": "185",
+            "Grande": "200",
+            "Venti": "215"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2020/08/63.Nitro-Chocolate1080-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b9%84%e0%b8%99%e0%b9%82%e0%b8%95%e0%b8%a3-%e0%b8%8a%e0%b9%87%e0%b8%ad%e0%b8%81%e0%b9%82%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%95-copy/"
+    },
+    {
+        "title": "สตรอเบอร์รี่ อาซาอิ วิธ เลมอนเนด สตาร์บัคส์ รีเฟรชเชอร์",
+        "detail": "เครื่องดื่มที่มีความหอมหวานของน้ำสตรอเบอร์รี่ อาซาอิ และน้ำมะนาว เพิ่มสีสันสดใสด้วยเนื้อสตรอเบอร์รี่อบแห้ง เติมพลังความสดชื่นมีชีวิตชีวา    *เครื่องดื่มนี้มีส่วนผสมของคาเฟอีน",
+        "prices": {
+            "Tall": "120",
+            "Grande": "135",
+            "Venti": "150"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2022/07/Refresher-Mobile-app_1080x1080_A-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a3%e0%b8%b5%e0%b9%88-%e0%b8%ad%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%ad%e0%b8%b4-%e0%b8%a7%e0%b8%b4%e0%b8%98/"
+    },
+    {
+        "title": "พิงค์ ดริงค์ วิธ สตรอเบอร์รี่ อาซาอิ สตาร์บัคส์ รีเฟรชเชอร์",
+        "detail": "เครื่องดื่มที่ให้ความหอมมันแฝงด้วยความนุ่มละมุนของน้ำนมมะพร้าว และความหวานสดชื่นของน้ำสตรอเบอร์รี่และอาซาอิ พร้อมด้วยเนื้อสตรอเบอร์รี่อบแห้ง เพิ่มพลังความสดชื่นที่ลงตัวของความหอมมันของน้ำมะพร้าวและผลไม้     *เครื่องดื่มนี้มีส่วนผสมของคาเฟอีน",
+        "prices": {
+            "Tall": "135",
+            "Grande": "150",
+            "Venti": "165"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2022/07/Refresher-Mobile-app_1080x1080_B-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b8%9e%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c-%e0%b8%94%e0%b8%a3%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c-%e0%b8%a7%e0%b8%b4%e0%b8%98-%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%9a%e0%b8%ad/"
+    },
+    {
+        "title": "ไอซ์ คลาสสิค ช็อกโกแลต",
+        "detail": "นมผสมน้ำเชื่อมช็อกโกแลต ราดด้วยวิปครีม และช็อกโกแลตซอส",
+        "prices": {
+            "Tall": "120",
+            "Grande": "135",
+            "Venti": "150"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2020/08/85.Iced-Classic-Chocolate1080-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b9%84%e0%b8%ad%e0%b8%8b%e0%b9%8c-%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b8%aa%e0%b8%b4%e0%b8%84-%e0%b8%8a%e0%b9%87%e0%b8%ad%e0%b8%81%e0%b9%82%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%95-copy/"
+    },
+    {
+        "title": "ไอซ์ ซิกเนเจอร์ ช็อกโกแลต",
+        "detail": "ช็อกโกแลตเย็นเข้มข้น ท็อปด้วยวิปครีม และผงช็อกโกแลต",
+        "prices": {
+            "Tall": "140",
+            "Grande": "155",
+            "Venti": "170"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2020/08/87.Iced-Signature-Chocolate1080-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b9%84%e0%b8%ad%e0%b8%8b%e0%b9%8c-%e0%b8%8b%e0%b8%b4%e0%b8%81%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%8a%e0%b9%87%e0%b8%ad%e0%b8%81%e0%b9%82%e0%b8%81%e0%b9%81%e0%b8%a5/"
+    },
+    {
+        "title": "นมสดเย็น",
+        "detail": "นมสดเย็น",
+        "prices": {
+            "Tall": "110",
+            "Grande": "125",
+            "Venti": "140"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2020/08/86.Iced_Milk1080-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b8%99%e0%b8%a1%e0%b8%aa%e0%b8%94%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%99-copy/"
+    }
+]

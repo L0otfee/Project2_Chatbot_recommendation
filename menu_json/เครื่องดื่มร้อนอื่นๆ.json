@@ -1,0 +1,38 @@
+[
+    {
+        "title": "คลาสสิค ช็อกโกแลต",
+        "detail": "นมผสมน้ำเชื่อมช็อกโกแลต ท็อปด้วยวิปครีม และซอสช็อกโกแลต",
+        "prices": {
+            "Short": "105",
+            "Tall": "120",
+            "Grande": "135",
+            "Venti": "150"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2020/08/32.Classic-Chocolate1080-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b8%aa%e0%b8%b4%e0%b8%84-%e0%b8%8a%e0%b9%87%e0%b8%ad%e0%b8%81%e0%b9%82%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%95-copy/"
+    },
+    {
+        "title": "ซิกเนเจอร์ ช็อกโกแลต",
+        "detail": "ช็อกโกแลตร้อน ท็อปด้วยวิปครีม และผงช็อกโกแลต",
+        "prices": {
+            "Short": "125",
+            "Tall": "140",
+            "Grande": "155",
+            "Venti": "170"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2020/08/34.Signature-Chocolate1080-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b8%8b%e0%b8%b4%e0%b8%81%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%8a%e0%b9%87%e0%b8%ad%e0%b8%81%e0%b9%82%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%95-copy/"
+    },
+    {
+        "title": "นมสด",
+        "detail": "นมสดอุ่นร้อน",
+        "prices": {
+            "Short": "95",
+            "Tall": "110",
+            "Grande": "125",
+            "Venti": "140"
+        },
+        "image_url": "https://www.starbucks.co.th/stb-media/2020/08/33.Hot-Milk1080-1-600x600.png",
+        "product_url": "https://www.starbucks.co.th/th/product/%e0%b8%99%e0%b8%a1%e0%b8%aa%e0%b8%94-copy/"
+    }
+]
